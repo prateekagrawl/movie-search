@@ -1,13 +1,13 @@
 import React from 'react'
 
-function Search({inputHandler, searchHandler}) {
+function Search({handleInput, search}) {
     return (
        <section>
            <input type="text"
             placeholder="Search for a movie and press Enter key..." 
             className="searchBox"
-            onChange={inputHandler}
-            onKeyPress={searchHandler}></input>
+            onChange={handleInput}
+            onKeyPress={search}></input>
        </section>
     )
 }
