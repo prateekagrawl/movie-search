@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/prateekagrawl/movie-search.git/static/css/main.3ef2880e.chunk.css",
+    "main.js": "/prateekagrawl/movie-search.git/static/js/main.a43d37aa.chunk.js",
+    "main.js.map": "/prateekagrawl/movie-search.git/static/js/main.a43d37aa.chunk.js.map",
+    "runtime-main.js": "/prateekagrawl/movie-search.git/static/js/runtime-main.7cb71ee0.js",
+    "runtime-main.js.map": "/prateekagrawl/movie-search.git/static/js/runtime-main.7cb71ee0.js.map",
+    "static/js/2.d765b75b.chunk.js": "/prateekagrawl/movie-search.git/static/js/2.d765b75b.chunk.js",
+    "static/js/2.d765b75b.chunk.js.map": "/prateekagrawl/movie-search.git/static/js/2.d765b75b.chunk.js.map",
+    "static/js/3.9e94f6ab.chunk.js": "/prateekagrawl/movie-search.git/static/js/3.9e94f6ab.chunk.js",
+    "static/js/3.9e94f6ab.chunk.js.map": "/prateekagrawl/movie-search.git/static/js/3.9e94f6ab.chunk.js.map",
+    "index.html": "/prateekagrawl/movie-search.git/index.html",
+    "static/css/main.3ef2880e.chunk.css.map": "/prateekagrawl/movie-search.git/static/css/main.3ef2880e.chunk.css.map",
+    "static/js/2.d765b75b.chunk.js.LICENSE.txt": "/prateekagrawl/movie-search.git/static/js/2.d765b75b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cb71ee0.js",
+    "static/js/2.d765b75b.chunk.js",
+    "static/css/main.3ef2880e.chunk.css",
+    "static/js/main.a43d37aa.chunk.js"
+  ]
+}
